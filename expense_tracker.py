@@ -1,4 +1,19 @@
+import json
+import os
+
 expenses = []
+
+# 🔄 Load existing data from data.json if it exists
+if os.path.exists("data.json"):
+    with open("data.json", "r") as f:
+        try:
+            expenses = json.load(f)
+        except json.JSONDecodeError:
+            expenses = []
+
+def save_expenses():
+    with open("data.json", "w") as f:
+        json.dump(expenses, f, indent=4)
 
 def add_expense():
     try:
@@ -16,6 +31,7 @@ def add_expense():
         "note": note
     }
     expenses.append(expense)
+    save_expenses()  # 🧠 Save to file
     print(f"✅ Expense added: ₹{amount} in {category} - {note}")
 
 def view_expenses():
