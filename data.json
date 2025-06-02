@@ -3,5 +3,10 @@
         "amount": 500.0,
         "category": "food",
         "note": "burger"
+    },
+    {
+        "amount": 67.0,
+        "category": "chai",
+        "note": "biscuit"
     }
 ]
