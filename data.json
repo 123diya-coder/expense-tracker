@@ -1,12 +1,12 @@
 [
     {
-        "amount": 500.0,
-        "category": "food",
-        "note": "burger"
+        "amount": 100.0,
+        "category": "maggiee",
+        "note": "masala"
     },
     {
-        "amount": 67.0,
-        "category": "chai",
-        "note": "biscuit"
+        "amount": 200.0,
+        "category": "clothes",
+        "note": "jeans"
     }
 ]
