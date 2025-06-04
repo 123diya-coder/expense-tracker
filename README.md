@@ -63,6 +63,16 @@ See LICENSE file for details.
 ⭐ Show Some Love
 If you found this project useful or cool:
 
+---
+
+## 🔗 Related Projects
+
+Check out more of my work:
+
+- [💸 Expense Tracker CLI](https://github.com/123diya-coder/expense-tracker) – A sleek CLI tool to track expenses using Python.
+- [🐍 Python Mini Project](https://github.com/123diya-coder/python-mini-project) – A small but effective Python project for practice.
+
+
 Give it a ⭐ on GitHub
 
 Share with your coding friends
