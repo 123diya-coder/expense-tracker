@@ -65,17 +65,12 @@ If you found this project useful or cool:
 
 ---
 
+---
+
 ## 🔗 Related Projects
 
 Check out more of my work:
 
 - [💸 Expense Tracker CLI](https://github.com/123diya-coder/expense-tracker) – A sleek CLI tool to track expenses using Python.
-- [🐍 Python Mini Project](https://github.com/123diya-coder/python-mini-project) – A small but effective Python project for practice.
-
-
-Give it a ⭐ on GitHub
-
-Share with your coding friends
-
-Follow for more projects 💫
+- [🐍 Python Project](https://github.com/123diya-coder/python-project) – A neat Python project for practice and learning.
 
